@@ -1,3 +1,5 @@
+#Capturing Image
+
 import cv2
 
 #Create a cascadeclassifier object
